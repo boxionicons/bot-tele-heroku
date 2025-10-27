@@ -1,0 +1,7 @@
+quart
+python-telegram-bot
+telethon
+asyncpg
+python-dotenv
+pytz
+quart-cors
